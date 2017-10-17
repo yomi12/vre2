@@ -11,8 +11,8 @@
       text-align: left !important;
     }
 #map {
-   padding-right: 150px !important;
-   width: 600px !important;
+   /*padding-right: 150px !important;
+   width: 600px !important;*/
 }
 
  #colbtn{
@@ -64,8 +64,8 @@
       text-align: left !important;
     }
 #map {
-   padding-right: 200px !important;
-   width: 825px !important;
+  /* padding-right: 200px !important;
+   width: 825px !important;*/
 }
 
  #colbtn{
@@ -175,8 +175,8 @@
     }
 #map {
   /* padding-right: 2000px !important;*/
-  width: 1450px !important;
-  padding-right: 0px;
+ /* width: 1450px !important;
+  padding-right: 0px;*/
 }
 
 
@@ -208,8 +208,8 @@
       text-align: left !important;
     }
 #map {
-   padding-right: 200px !important;
-   width: 1200px !important;
+  /* padding-right: 200px !important;
+   width: 1200px !important;*/
 }
 
  #colbtn{
@@ -264,8 +264,8 @@
       text-align: left !important;
     }
 #map {
-   padding-right: 150px !important;
-   width: 1400px !important;
+  /* padding-right: 150px !important;
+   width: 1400px !important;*/
 }
 
  #colbtn{
@@ -318,8 +318,8 @@
 @media only screen and (max-width: 1680px) and (min-width: 1079px) {
 
 #map {
-   padding-right: 225px !important;
-   width: 1580px !important;
+  /* padding-right: 225px !important;
+   width: 1580px !important;*/
   }
 }
 
@@ -404,7 +404,9 @@ nav{
 
 
 #map {
-   padding-right: 500px;
+   /*padding-right: 500px;*/
+    height:400px;
+    width:100%;
 }
 
 body{
