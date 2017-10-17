@@ -1,0 +1,30 @@
+{
+  "name": "vre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogashri1126/vre.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogashri1126/vre/issues"
+  },
+  "homepage": "https://github.com/yogashri1126/vre#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "jQuery": "^1.7.4",
+    "method-override": "^2.3.10",
+    "mysql2": "^1.4.2",
+    "path": "^0.12.7",
+    "sequelize": "^4.13.8",
+    "url-relative": "^1.0.0"
+  }
+}
